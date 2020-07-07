@@ -1,0 +1,6 @@
+name: 'run lowendinsight'
+description: 'runs lowendinsight against an existing repository'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
